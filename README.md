@@ -1,6 +1,6 @@
 ## Hey there, I am Jose!
 
-- 👋 Let's connect! - I am currently on the latest stages of my Fullstack Development Bootcamp at SPICED Academy.
+- 👋 Let's connect! - I am a graduate of the Fullstack Web Developer Bootcamp at SPICED Academy.
 - 🌱 Currently getting more acquainted with backend technologies, learning more about PostgreSQL, MongoDB and RESTful APIs.
 - 🎮 Passionate gamer, (bit less) passionate cook. Good food is where it's at!  
 - 📬 Feel free to reach out to me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jose-ehg) or for a way less formal gaming session at [![Discord](https://i.imgur.com/faBeBed.png)Discord](https://discord.com/users/335297132229558272)!
